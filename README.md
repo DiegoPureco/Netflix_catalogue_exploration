@@ -1,4 +1,4 @@
-# Netflix_Catalogue_Exploration_And_Visualization
+# Netflix catalog exploration and visualization
 
 This data analysis project focuses on the quality of the Netflix catalog, as determined by the ratings of movies and TV shows on IMDB. To conduct this analysis, I first explored the catalog using SQL, utilizing a variety of functions such as joins, CTEs, window functions, and aggregate functions. Additionally, I created views and updated the database to optimize my exploration of the data. After examining the catalog and identifying the most useful data, I built a Power BI dashboard to visualize the ratings of Netflix content.
 
