@@ -7,3 +7,5 @@ During my exploration, I investigated the number of productions available on Net
 The findings of this analysis provide valuable insights into the quality of the Netflix catalog and help to identify areas of strength and weakness in the platform's content offerings. This information can be used to inform future content acquisition and production strategies, as well as help subscribers make more informed viewing choices. Ultimately, the goal of this analysis is to provide a comprehensive overview of the quality of the Netflix catalog and to identify opportunities for improvement.
 
 The data can be obtained in https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies, it has the information of netflix movies and shows updated until July 2022
+
+You can see the final dashboard on: https://www.novypro.com/project/netflix-catalog-quality-analysis
